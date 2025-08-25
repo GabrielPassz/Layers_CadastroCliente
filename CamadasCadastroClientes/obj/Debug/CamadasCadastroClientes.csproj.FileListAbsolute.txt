@@ -1,0 +1,8 @@
+D:\Meus Projetos GitHub\Layers_CadastroCliente\CamadasCadastroClientes\bin\Debug\CamadasCadastroClientes.exe.config
+D:\Meus Projetos GitHub\Layers_CadastroCliente\CamadasCadastroClientes\bin\Debug\CamadasCadastroClientes.exe
+D:\Meus Projetos GitHub\Layers_CadastroCliente\CamadasCadastroClientes\bin\Debug\CamadasCadastroClientes.pdb
+D:\Meus Projetos GitHub\Layers_CadastroCliente\CamadasCadastroClientes\obj\Debug\CamadasCadastroClientes.csproj.AssemblyReference.cache
+D:\Meus Projetos GitHub\Layers_CadastroCliente\CamadasCadastroClientes\obj\Debug\CamadasCadastroClientes.csproj.CoreCompileInputs.cache
+D:\Meus Projetos GitHub\Layers_CadastroCliente\CamadasCadastroClientes\obj\Debug\CamadasCadastroClientes.exe
+D:\Meus Projetos GitHub\Layers_CadastroCliente\CamadasCadastroClientes\obj\Debug\CamadasCadastroClientes.pdb
+D:\Meus Projetos GitHub\Layers_CadastroCliente\CamadasCadastroClientes\obj\Debug\CamadasCadastroClientes.exe.config
