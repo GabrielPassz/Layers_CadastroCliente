@@ -26,7 +26,8 @@ namespace CamadasCadastroClientes.Business
                 throw new System.Exception("O nome não pode ser vazio");
             _repository.Remover(nome);
         }
-        // Métado responsalvel por retorna os nomes dos cliente na lista.
+        // Retorna a lista de clientes cadastrados.
+
         public List<string> ObeterCliente()
         {
             return _repository.Listar();

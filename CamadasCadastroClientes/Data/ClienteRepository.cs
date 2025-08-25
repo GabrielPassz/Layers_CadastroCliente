@@ -21,7 +21,7 @@ namespace CamadasCadastroClientes.Data
         {
             cliente.Remove(nome);
         }
-        // Retorna a lista de clientes cadastrados.
+        //  Retorna todos os clientes cadastrados no repositório.
         public List<string> Listar()
         {
             return cliente;
