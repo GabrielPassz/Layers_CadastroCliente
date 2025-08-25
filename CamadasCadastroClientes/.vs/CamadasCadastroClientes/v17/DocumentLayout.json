@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Meus Projetos GitHub\\Layers_CadastroCliente\\CamadasCadastroClientes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41C6737C-43A7-43F1-A8D2-B3926C50748F}|CamadasCadastroClientes.csproj|d:\\meus projetos github\\layers_cadastrocliente\\camadascadastroclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41C6737C-43A7-43F1-A8D2-B3926C50748F}|CamadasCadastroClientes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41C6737C-43A7-43F1-A8D2-B3926C50748F}|CamadasCadastroClientes.csproj|D:\\Meus Projetos GitHub\\Layers_CadastroCliente\\CamadasCadastroClientes\\business\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C6737C-43A7-43F1-A8D2-B3926C50748F}|CamadasCadastroClientes.csproj|solutionrelative:business\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41C6737C-43A7-43F1-A8D2-B3926C50748F}|CamadasCadastroClientes.csproj|d:\\meus projetos github\\layers_cadastrocliente\\camadascadastroclientes\\data\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41C6737C-43A7-43F1-A8D2-B3926C50748F}|CamadasCadastroClientes.csproj|D:\\Meus Projetos GitHub\\Layers_CadastroCliente\\CamadasCadastroClientes\\data\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41C6737C-43A7-43F1-A8D2-B3926C50748F}|CamadasCadastroClientes.csproj|solutionrelative:data\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41C6737C-43A7-43F1-A8D2-B3926C50748F}|CamadasCadastroClientes.csproj|d:\\meus projetos github\\layers_cadastrocliente\\camadascadastroclientes\\business\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41C6737C-43A7-43F1-A8D2-B3926C50748F}|CamadasCadastroClientes.csproj|solutionrelative:business\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41C6737C-43A7-43F1-A8D2-B3926C50748F}|CamadasCadastroClientes.csproj|d:\\meus projetos github\\layers_cadastrocliente\\camadascadastroclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C6737C-43A7-43F1-A8D2-B3926C50748F}|CamadasCadastroClientes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Meus Projetos GitHub\\Layers_CadastroCliente\\CamadasCadastroClientes\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Meus Projetos GitHub\\Layers_CadastroCliente\\CamadasCadastroClientes\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwBoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T14:43:42.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ClienteService.cs",
               "DocumentMoniker": "D:\\Meus Projetos GitHub\\Layers_CadastroCliente\\CamadasCadastroClientes\\Business\\ClienteService.cs",
               "RelativeDocumentMoniker": "Business\\ClienteService.cs",
               "ToolTip": "D:\\Meus Projetos GitHub\\Layers_CadastroCliente\\CamadasCadastroClientes\\Business\\ClienteService.cs",
               "RelativeToolTip": "Business\\ClienteService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T14:45:43.496Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Data\\ClienteRepository.cs",
               "ToolTip": "D:\\Meus Projetos GitHub\\Layers_CadastroCliente\\CamadasCadastroClientes\\Data\\ClienteRepository.cs",
               "RelativeToolTip": "Data\\ClienteRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T14:46:50.64Z",
               "EditorCaption": ""
